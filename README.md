@@ -1,1 +1,1 @@
-# Najiya
+# Data analysis project Najiya
